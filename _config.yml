@@ -1,14 +1,36 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Dependencies
+markdown:         redcarpet
+highlighter:         true
 
-# Build settings
-markdown: kramdown
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ivan Kulagin
+tagline:          "Kulagin's Website"
+description:      "Ivan Kulagin's Website"
+url:              http://ikulagin.github.io
+rss:              atom.xml
+
+author:
+  name:           'Ivan Kulagin'
+  url:            http://ikulagin.github.io
+  ava_sidebar:    "ava_sidebar.jpg"
+  ava_home:       "ava_home.jpg"
+  word_cloud:      "word_cloud.jpg"
+  github:         "Ikulagin"
+  email:          "ivan.i.kulagin@gmail.com"
+  skype:          "ivan_dizel"
+  slideshare:     "http://www.slideshare.net/ivankulagin1"
+  vk:             "https://vk.com/id4057191"
+  facebook:       "https://www.facebook.com/ivan.kulagin.1"
+
+paginate:         3
+paginate_path: "/blog/page:num/"
+gems: [jekyll-paginate]
+
+# Custom vars
+version:          1.0.0
+
+github:
+    repo:           https://github.com/Ikulagin/ikulagin.github.io

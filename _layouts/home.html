@@ -20,8 +20,16 @@
       </div>
 
       <div class="container content">
+        <div class="container-vcard">
+          <img src="{{ site.baseurl }}/public/{{ site.author.ava_home }}" />
+          <h3>Contacts</h3>
+          {% include contacts.html %}
+        </div >
+        <img src="{{ site.baseurl }}/public/{{ site.author.word_cloud }}" style="width:290px;" />
+        <div style="clear:both;width:0;"></div>
         {{ content }}
       </div>
+      
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
