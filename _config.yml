@@ -34,3 +34,7 @@ version:          1.0.0
 
 github:
     repo:           https://github.com/Ikulagin/ikulagin.github.io
+
+collections:
+    dcsft_streams:
+        output: true
