@@ -1,8 +1,10 @@
 .container-vcard {
     background-color: #f2f2f2;
-    width: 430px;
+    width: 420px;
     height: 192px;
     float: left;
+    margin-right: 12px;
+    border-radius: 5px;
 }
 
 .container-vcard #contactslinks {
@@ -40,6 +42,7 @@
 #contactslinks {
     float: left;
     margin-left: 32px;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 
 #contactslinks a:link {
