@@ -25,6 +25,11 @@ description: Весенний семестр 2016 г. (ИВ-221-222, ИС-241, �
 2. [Лабораторная работа 2] ({{ page.url }}/labs/lab2.pdf)
 3. [Лабораторная работа 3] ({{ page.url }}/labs/lab3.pdf)
 
+### Курсовая работа
+
+* [Задание на курсовой проект] ({{ page.url }}/cours/2016_thems.pdf)
+* [Распределение вариантов на курсовой проект] ({{ page.url }}/cours/2016_variants.pdf)
+
 ### Журнал успеваемости
 
 <iframe width="105%" height="450" frameborder="0" src="https://docs.google.com/spreadsheets/d/1-LSEegt_yFMfpGTn1NQOfJhLcv0jmre1mX42RRXAo1I/pubhtml?widget=true&amp;headers=false"></iframe>
