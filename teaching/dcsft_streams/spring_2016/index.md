@@ -30,6 +30,10 @@ description: Весенний семестр 2016 г. (ИВ-221-222, ИС-241, �
 * [Задание на курсовой проект] ({{ page.url }}/cours/2016_thems.pdf)
 * [Распределение вариантов на курсовой проект] ({{ page.url }}/cours/2016_variants.pdf)
 
+### Экзаменнационные вопросы
+
+* [Список вопросов] ({{ page.url }}/exm/DCSFT_2016.pdf)
+
 ### Журнал успеваемости
 
 <iframe width="105%" height="450" frameborder="0" src="https://docs.google.com/spreadsheets/d/1-LSEegt_yFMfpGTn1NQOfJhLcv0jmre1mX42RRXAo1I/pubhtml?widget=true&amp;headers=false"></iframe>
