@@ -3,7 +3,7 @@ layout: default
 title: Operating Systems
 ---
 
-##Операционные системы
+## Операционные системы
 
 ### Описание курса
 В рамках курса операционных систем будут рассмотрены основы функционирвоания и принципы построения современных операционных систем (ОС).
@@ -14,6 +14,8 @@ title: Operating Systems
 1. [Лабораторная работа 1][lab1]
 
 ### Журнал успеваемости
+
+<iframe width="105%" height="600" frameborder="0" src="https://docs.google.com/spreadsheets/d/1cE4uSA2nf1hoPOAHlxVDfLxXSb1WLEVl7bf9SiGS0xo/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ### Справочные материалы и учебные пособия
 1. [Учебное пособие по дисциплине "Операционные системы"][OS_method_instr]
