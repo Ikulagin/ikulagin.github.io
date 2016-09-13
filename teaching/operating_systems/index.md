@@ -12,9 +12,13 @@ title: Operating Systems
 
 ### Лабораторные работы
 1. [Лабораторная работа 1][lab1]
+2. [Лабораторная работа 2][lab2]
+
+### Необходимый инструментарий
+1. [Исходный код учебной ОС][jos_src]
+2. [Модифицированный qemu][qemu_patched]
 
 ### Журнал успеваемости
-
 <iframe width="105%" height="600" frameborder="0" src="https://docs.google.com/spreadsheets/d/1cE4uSA2nf1hoPOAHlxVDfLxXSb1WLEVl7bf9SiGS0xo/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ### Справочные материалы и учебные пособия
@@ -29,6 +33,8 @@ title: Operating Systems
 [lab1]: {{ page.url }}/OS_LabWork1.pdf
 [lab2]: {{ page.url }}/OS_LabWork2.pdf
 [lab3]: {{ page.url }}/OS_LabWork3.pdf
+[jos_src]: http://csc.sibsutis.ru/sites/csc.sibsutis.ru/files/courses/os/JOS.tar.gz
+[qemu_patched]: http://1drv.ms/1PmrxDP
 
 [OS_method_instr]: http://csc.sibsutis.ru/sites/csc.sibsutis.ru/files/courses/os/OS_method_instr.pdf
 [pcasm-book]: http://csc.sibsutis.ru/sites/csc.sibsutis.ru/files/courses/os/pcasm-book.pdf
