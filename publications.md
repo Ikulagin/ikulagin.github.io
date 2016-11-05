@@ -9,7 +9,9 @@ title: Publications (mostly in Russian)
 
 {% comment %}
 
-3. МАИ
+1. Журнал ЮУФУ
+2. Известия ЮФУ
+3. Азиатская школа
 
 {% endcomment %}
 

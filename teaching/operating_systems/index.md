@@ -13,6 +13,7 @@ title: Operating Systems
 ### Лабораторные работы
 1. [Лабораторная работа 1][lab1]
 2. [Лабораторная работа 2][lab2]
+3. [Лабораторная работа 3][lab3] ([Исходный код для Л.Р.3][jos_src_lab3])
 
 ### Необходимый инструментарий
 1. [Исходный код учебной ОС][jos_src]
@@ -34,6 +35,7 @@ title: Operating Systems
 [lab2]: {{ page.url }}/OS_LabWork2.pdf
 [lab3]: {{ page.url }}/OS_LabWork3.pdf
 [jos_src]: http://csc.sibsutis.ru/sites/csc.sibsutis.ru/files/courses/os/JOS.tar.gz
+[jos_src_lab3]: http://csc.sibsutis.ru/sites/csc.sibsutis.ru/files/courses/os/lab3.tar.gz
 [qemu_patched]: http://1drv.ms/1PmrxDP
 
 [OS_method_instr]: http://csc.sibsutis.ru/sites/csc.sibsutis.ru/files/courses/os/OS_method_instr.pdf
