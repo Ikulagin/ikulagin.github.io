@@ -12,13 +12,14 @@ title: Operating Systems
 
 ### Лабораторные работы
 1. [Лабораторная работа 1][lab1]
+{% comment %}
 2. [Лабораторная работа 2][lab2]
 3. [Лабораторная работа 3][lab3] ([Исходный код для Л.Р.3][jos_src_lab3])
 
 ### Необходимый инструментарий
 1. [Исходный код учебной ОС][jos_src]
 2. [Модифицированный qemu][qemu_patched]
-
+{% endcomment %}
 ### Журнал успеваемости
 <iframe width="105%" height="600" frameborder="0" src="https://docs.google.com/spreadsheets/d/1cE4uSA2nf1hoPOAHlxVDfLxXSb1WLEVl7bf9SiGS0xo/pubhtml?widget=true&amp;headers=false"></iframe>
 
