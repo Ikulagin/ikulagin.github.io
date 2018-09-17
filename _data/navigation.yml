@@ -2,8 +2,8 @@
 main:
   - title: "Publications"
     url: /publications/
-#  - title: "Sample Posts"
-#    url: /year-archive/
+  - title: "CV"
+    url: /assets/pdf-docs/CV.pdf
 #  - title: "Sample Collections"
 #    url: /collection-archive/
 #  - title: "Sitemap"
